@@ -1,0 +1,19 @@
+# Ignore compiled binary
+mysh
+
+# Object files
+*.o
+
+# Backup files created by editors
+*~
+*.swp
+*.bak
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Core dumps
+core
