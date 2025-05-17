@@ -1,10 +1,10 @@
-# 🐚 Mini Linux Shell (`mysh`)
+#  Mini Linux Shell (`mysh`)
 
 A basic Unix/Linux shell written in C. This project mimics core functionalities of a typical shell, allowing users to run commands, use built-in utilities, handle input/output redirection, and single piping.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Execute standard Linux commands (e.g., `ls`, `pwd`, `echo`)
 - Built-in commands:  
